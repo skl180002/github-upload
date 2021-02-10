@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1568928703 source:c:\users\hasht\documents\computerscince\antwars\creature.cpp
+
+1569012478 c:\users\hasht\documents\computerscince\antwars\creature.h
+
+1569352603 source:c:\users\hasht\documents\computerscince\antwars\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<cstdio>
+	<iomanip>
+	"Creature.h"
+	"Beetle.h"
+	"Ant.h"
+
+1569012478 source:c:\users\hasht\documents\computerscince\antwars\ant.cpp
+	"Ant.h"
+	<iostream>
+
+1569012478 c:\users\hasht\documents\computerscince\antwars\ant.h
+	"Creature.h"
+
+1569352603 source:c:\users\hasht\documents\computerscince\antwars\beetle.cpp
+	"Beetle.h"
+
+1569012478 c:\users\hasht\documents\computerscince\antwars\beetle.h
+	"Creature.h"
+	<iostream>
+
